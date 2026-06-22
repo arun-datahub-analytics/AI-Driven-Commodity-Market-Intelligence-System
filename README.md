@@ -27,12 +27,16 @@ This project aims to improve forecasting accuracy by integrating commodity price
 
 ---
 
-📂 Datasets Used
+## 📂 Datasets Used
 
 - 🥇 Gold Price Dataset
 - 🥈 Silver Price Dataset
 - 🛢️ Crude Oil Price Dataset
 - 📰 Financial News Sentiment Dataset
+
+### 📌 Dataset Information
+
+The datasets used for this project are not included in the repository due to file size limitations and data availability constraints. The notebook contains the complete data preprocessing, feature engineering, modeling, and analysis workflow.
 
 ---
 
